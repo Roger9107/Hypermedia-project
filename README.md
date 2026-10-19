@@ -1,4 +1,4 @@
-# Project Analysis: Ryan Kelly Personal CV Website
+# Project Analysis: Ryan Kelly Personal CV
 
 ## 1. Project Analysis: User Profile (User Persona)
 
@@ -22,9 +22,9 @@ Marc leads the talent scouting and quantitative performance department for FC Ba
 
 The information architecture of this document is designed to maximize efficiency making sure that they see exactly what they are expecting, making the information the most important part not a fancy or overcomplicated design. The entire page is contained within a full page or background where there's two columns that divide the content.
 
-The **Left Column** is made for the first quick look to display abilities and skills and show the contact in case they are interested. At the top, there is a circular profile picture so the visitor can put a face to the name right away. Below the photo, the column is split into four clear sections using  lines: Technical Skills, Analytics and Soft Skills, Languages, and Contact. Using lists to show the contents of these sections.
+The Left Column is made for the first quick look to display abilities and skills and show the contact in case they are interested. At the top, there is a circular profile picture so the visitor can put a face to the name right away. Below the photo, the column is split into four clear sections using  lines: Technical Skills, Analytics and Soft Skills, Languages, and Contact. Using lists to show the contents of these sections.
 
-The **Right Column** contains the main story and career background. At the top, there's the candidate's full name in a large header and their job title in a subheader. Right below, there is a short personal paragraph explaining who Ryan is, his background, and his passion for sports analytics. The rest of the column is divided into two blocks: Experience and Education. Each section has a title and uses paragraphs with line breaks to show jobs, schools, and dates. In this case with just looking at the job title you know it's valuable it doesn't need a text explaining it.
+The Right Column contains the main story and career background. At the top, there's the candidate's full name in a large header and their job title in a subheader. Right below, there is a short personal paragraph explaining who Ryan is, his background, and his passion for sports analytics. The rest of the column is divided into two blocks: Experience and Education. Each section has a title and uses paragraphs with line breaks to show jobs, schools, and dates. In this case with just looking at the job title you know it's valuable it doesn't need a text explaining it.
 
 ---
 
