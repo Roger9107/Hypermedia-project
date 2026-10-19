@@ -32,7 +32,7 @@ The entire layout is built on a 750px grid. I gave the left sidebar a total widt
 
 With color I didn't do much; I just picked a soft blue (#B8CEF6) as the background color for the left column and kept a clean white background (#FFFFFF) for the right column where most of the reading happens. To keep the stylesheet clean and organized, these colors and border styles were declared using CSS variables (:root). This simple choice makes the page basic, calm, and easy to look at, giving enough contrast between the two areas without causing eye strain.
 
-For typography, I chose the Roboto font, keeping the same line, to keep it simple, easy to read, and to make the information stand out. A clear font size scale was used across the page, starting with 30px for the name, 20px for the subtitle, and around 12px for list items, keeping normal font weights so it doesn't look too heavy. Finally, very thin 0.5px lines were used to divide the sections, and `object-fit: cover` was applied to the circular profile picture so the photo stays round without stretching.
+For typography, I chose the Roboto font, keeping the same line, to keep it simple, easy to read, and to make the information stand out. A clear font size scale was used across the page, starting with 30px for the name, 20px for the subtitle, and around 12px for list items, keeping normal font weights so it doesn't look too heavy. Finally, very thin 0.5px lines were used to divide the sections, and (object-fit: cover) was applied to the circular profile picture so the photo stays round without stretching.
 
 
 ## 4. Link to the Figma project
